@@ -1,5 +1,8 @@
 # ingest-daily-flight-data-in-redshift-fact-table
 ## Introduction
+* Data Ingestion:Fully automated airlines daily_flights data ingestion from S3 to a Redshift datawarehouse,where it can be accessed and analyzed
+* Data Transformation:flights data processing and transformations with Glue ETL efficiently
+* Data Loading into Data Warehouse:Data will be available in redshift for futhur analysis to Business stakeholders.And Data analysts can create dashboards on top this
 ## Architecture
 ![daily-flights](https://github.com/kalyani33/ingest-daily-flight-data-in-redshift-fact-table/assets/37569003/11a1cc13-5559-4f32-abd1-a4889603cf42)
 
